@@ -1,0 +1,20 @@
+body { 
+  background-color: rgb(38, 43, 64);
+  text-align: center;
+}
+h1 { color: white;
+}
+label {color: white;
+}
+button { color: white;
+  background-color: blue;
+}
+login {
+  link href="https://www.google.com/"
+}
+label{
+  border-block: white;
+}
+h4  {
+  color: white;;
+}
